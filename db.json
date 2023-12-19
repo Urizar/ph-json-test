@@ -1,0 +1,82 @@
+{
+  "franchises": [
+    {
+      "id": "HUT",
+      "name": "HUT American Group"
+    },
+    {
+      "id": "KFC ",
+      "name": "TEST Franchise"
+    }
+  ],
+  "franchise_admins": [
+    {
+      "id": "HXT1234",
+      "name": "Horace Tisdale",
+      "email": "horace.tisdale@hutag.com"
+    },
+    {
+      "id": "DXR0123",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com"
+    }
+  ],
+  "tm_shipping_locations": [
+    {
+      "id": "001",
+      "name": "North 1",
+      "contact_name": "Mary Thompson",
+      "contact_phone": "12345678",
+      "contact_address": "Mary Thompson - Grand Island, NE",
+      "restaurant_packets": 28,
+      "arl_packets": 2,
+      "restaurant_double_kitchens": 3,
+      "forward_facing_packets": 1,
+      "franchise_id": 9
+    },
+    {
+      "id": "002",
+      "name": "North 2",
+      "contact_name": "Dave Staab",
+      "contact_phone": "12345678",
+      "contact_address": "Dave Staab - Cambridge, MN",
+      "restaurant_packets": 12,
+      "arl_packets": 2,
+      "restaurant_double_kitchens": 0,
+      "forward_facing_packets": 2,
+      "franchise_id": 9
+    }
+  ],
+  "issues": [
+    {
+      "id": "001",
+      "name": "Materials Never Arrived",
+      "date": "Oct 27, 2023",
+      "shipping_location": "Mark Hammel - Conroe, TX",
+      "tracking_number": "456789012-3"
+    },
+    {
+      "id": "002",
+      "name": "Materials returned as Undeliverable",
+      "date": "Nov 6, 2023",
+      "shipping_location": "Dave Staab - Cambridge, MN",
+      "tracking_number": "0123456789-0"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "N01322",
+      "address": "7105 Military Ave",
+      "city": "Omaha",
+      "state": "NE",
+      "shipping_location": "Mary Thompson - Grand Island, NE"
+    },
+    {
+      "id": "O10016",
+      "address": "807 S. Rum River Drive",
+      "city": "Princeton ",
+      "state": "MN",
+      "shipping_location": "Dave Staab - Cambridge, MN"
+    }
+  ]
+}
