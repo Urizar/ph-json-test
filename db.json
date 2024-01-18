@@ -1,29 +1,348 @@
 {
   "franchises": [
     {
-      "id": "HUT",
+      "id": 1002,
       "name": "HUT American Group"
     },
     {
-      "id": "KFC ",
-      "name": "TEST Franchise"
+      "id": 1003,
+      "name": "KFC Franchise"
     }
   ],
   "franchise_admins": [
     {
-      "id": "HXT1234",
+      "id": 1000,
+      "username": "Horacetisdale",
       "name": "Horace Tisdale",
-      "email": "horace.tisdale@hutag.com"
+      "email": "horace.tisdale@hutag.com",
+      "franchise_id": 1002
     },
     {
-      "id": "DXR0123",
+      "id": 1001,
+      "username": "Donovanroyer",
       "name": "Donovan Royer",
-      "email": "donovan.royer@hutag.com"
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
+    },
+    {
+      "id": 1001,
+      "username": "Donovanroyer",
+      "name": "Donovan Royer",
+      "email": "donovan.royer@hutag.com",
+      "franchise_id": 1003
     }
   ],
   "tm_shipping_locations": [
     {
-      "id": "001",
+      "id": 1000,
       "name": "North 1",
       "contact_name": "Mary Thompson",
       "contact_phone": "12345678",
@@ -32,10 +351,10 @@
       "arl_packets": 2,
       "restaurant_double_kitchens": 3,
       "forward_facing_packets": 1,
-      "franchise_id": 9
+      "franchise_id": 1002
     },
     {
-      "id": "002",
+      "id": 1001,
       "name": "North 2",
       "contact_name": "Dave Staab",
       "contact_phone": "12345678",
@@ -44,7 +363,7 @@
       "arl_packets": 2,
       "restaurant_double_kitchens": 0,
       "forward_facing_packets": 2,
-      "franchise_id": 9
+      "franchise_id": 1002
     }
   ],
   "issues": [
